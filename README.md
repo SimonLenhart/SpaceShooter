@@ -1,3 +1,5 @@
+# Space Shooter - a 2D Game for Android
+
 Space Shooter is a simple 2D game for Android, developed with Unity/C#. 
 
 
