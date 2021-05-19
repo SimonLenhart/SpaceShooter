@@ -1,3 +1,4 @@
+![axel](https://user-images.githubusercontent.com/66257427/118858089-0bc7f580-b8d9-11eb-88f3-491dc11ca3c0.jpg)
 # Space Shooter - a 2D Game for Android
 
 ## Content of the Game
