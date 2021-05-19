@@ -6,4 +6,4 @@ The game is not fully finished yet, many more features will be implemented soon.
 
 Here you can see a short demo video of the application: 
 
-[my directory](test_dir)
+(DemoSpaceShooter.mp4)
