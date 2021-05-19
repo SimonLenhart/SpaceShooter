@@ -13,5 +13,5 @@ To play the game, just download [this apk](export/SpaceShooterAPK.apk) and insta
 
 ## Demo
 [Click here](DemoSpaceShooter.mp4) to watch a short demo video of the application. You have to download the video to watch it, since GitHub doesn't support displaying such large files.
+![Screenshot (200)](https://user-images.githubusercontent.com/66257427/118858493-81cc5c80-b8d9-11eb-869b-5c431d9b02e4.png)
 
-![Screenshot (200)](https://user-images.githubusercontent.com/66257427/118858249-3c0f9400-b8d9-11eb-8c93-43567e1870c6.png)
