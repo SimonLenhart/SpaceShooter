@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0c928b3d3f2be054592e42257d258e44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - josuSprite: {fileID: 21300000, guid: e5b805df427573141b83958bfb3740aa, type: 3}
+  - axelSprite: {fileID: 21300000, guid: e69de78b5560b78498cb9aaecdce56d9, type: 3}
+  - nicoSprite: {fileID: 21300000, guid: 734cbbd42cb9cba40afb60c69a97f4c6, type: 3}
+  - domeSprite: {fileID: 21300000, guid: d861c1d2471981149912e9d6ecefa2d8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

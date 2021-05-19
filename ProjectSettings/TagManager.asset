@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Polizei
+  - Herz
+  - SpeedChange
+  - TextPro
+  - TextProScore
+  - TextProLife
+  - Dauerschuss
+  - TextProHighscore
+  - Highscore1
+  - Highscore2
+  - Highscore3
+  - TextProInput
+  - Coin
+  - Asteroid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Editor Only
+  - objects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2049273903
+    locked: 0
+  - name: object
+    uniqueID: 1834020263
+    locked: 0
+  - name: boxlayer
+    uniqueID: 298335115
+    locked: 0
