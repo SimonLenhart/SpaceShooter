@@ -11,5 +11,5 @@ The whole application was developed in Unity with the programming language C#.
 To play this game, just download [this apk](export/SpaceShooterAPK.apk) and instal it on your Android phone. 
 
 ## Notes
-The game is not fully finished yet, many more features will be implemented soon. 
+The game is not fully finished yet, many more features will be implemented soon.  <br />
 [Click here](DemoSpaceShooter.mp4) to watch a short demo video of the application. You have to download the video to watch it, since GitHub doesn't support displaying such large files.
